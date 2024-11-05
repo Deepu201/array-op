@@ -39,7 +39,8 @@ cd array-op
 
 
 
-import { arrayOperations } from '';
+import {arrayOperations} from 'array-operation-dee'
+
 
 const numbers = [5, 3, 8, 1, 2];
 
