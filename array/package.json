@@ -1,0 +1,20 @@
+{
+  "name": "array-operation-dee",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run arr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepu201/array-op.git"
+  },
+  "author": "Deepu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepu201/array-op/issues"
+  },
+  "homepage": "https://github.com/Deepu201/array-op#readme"
+}
